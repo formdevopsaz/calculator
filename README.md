@@ -3,8 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/OrgFormAzDevOps/Project%20PartsUnlimited%20Demo/_apis/build/status/formdevopsaz.calculator?branchName=addition-cleanup)](https://dev.azure.com/OrgFormAzDevOps/Project%20PartsUnlimited%20Demo/_build/latest?definitionId=3&branchName=addition-cleanup)
-
+[![Build Status](https://dev.azure.com/OrgFormAzDevOps/Project%20PartsUnlimited%20Demo/_apis/build/status/formdevopsaz.calculator?branchName=master)](https://dev.azure.com/OrgFormAzDevOps/Project%20PartsUnlimited%20Demo/_build/latest?definitionId=3&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
